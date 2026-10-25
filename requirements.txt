@@ -1,0 +1,6 @@
+streamlit>=1.40
+numpy
+networkx
+matplotlib
+plotly>=5.24
+scipy

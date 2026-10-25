@@ -1,0 +1,10 @@
+# Solo se publican los archivos de la app; todo lo demás de la carpeta queda fuera.
+*
+!.gitignore
+!README.md
+!requirements.txt
+!streamlit_app.py
+!red_ecobici.py
+!estaciones.txt
+!geo/
+!geo/alcaldias_cdmx.json
